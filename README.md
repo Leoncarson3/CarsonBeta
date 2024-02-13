@@ -1,2 +1,2 @@
 # CarsonBeta
-Available Items/Artifacts
+Available Items/Artifacts [Viewable]
